@@ -1,5 +1,9 @@
 *CAS*
 client_secret.json
+generate_timesheets_with_my_configuration.py
+
+# PyCharm project stuff
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
